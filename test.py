@@ -1,1 +1,1 @@
-hehrheherrehrh
+print("Hello test")
